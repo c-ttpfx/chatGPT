@@ -9,3 +9,10 @@
 - **如果想不挂vpn就进行访问，那么就需要使用到代理了，大家可以自己搞一个外国的云服务器，具体教程geogle上面有很多**
 
 大家感兴趣可以在CustomChatGpt上面进行扩展，具体怎么编写代码，查看chatgpt官方文档就行了
+***
+
+**2023/4/5 19:36**
+
+大家可以参考我最新用java调用chatgpt的项目，实现了异步请求，返回基本没有延迟
+
+https://github.com/c-ttpfx/chatgpt-java-wx
